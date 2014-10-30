@@ -1,4 +1,4 @@
 #include "HelloWorld.h"
 string HelloWorld::say(){
-    return string("Hello! ss");
+    return string("Hello!");
 };
