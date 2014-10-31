@@ -6,7 +6,7 @@ int main()
     cout<<"test case 1: test HelloWorld class exsist?"<<endl;
     HelloWorld h;
     sleep(5);
-    cout<<" test case 1 passed!"<<endl;
+    cout<<"test case 1 passed!"<<endl;
     
     cout<<"test case 2: test method say exsist?"<<endl;
     string str = h.say();
